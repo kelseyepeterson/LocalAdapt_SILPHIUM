@@ -1,0 +1,16 @@
+﻿Region,Field_Type,Site_Name,lat,lon,Site_Name_Prairies,RTlocs
+East,Prairie,Prospect,40.445083,-88.0973,Prospect,
+East,Prairie,Loda,40.527317,-88.076483,Loda,
+East,Prairie,Weston,40.7467,-88.614333,Weston,
+East,Prairie,Pellisville,40.4610329,-87.924242,Pellisville,
+Central,Prairie,Prairie_Park,38.9331136,-95.215193,Prairie_Park,
+Central,Prairie,Ogg_Prairie,38.9897401,-94.798879,Ogg_Prairie,
+Central,Prairie,Kill_Creek,38.9173311,-94.974536,Kill_Creek,
+Central,Prairie,Lexington_Lake,38.968363,-95.010196,Lexington_Lake,
+West,Prairie,W1,38.9508559,-98.150999,W1,
+West,Prairie,W2,39.0667768,-98.56508,W2,
+West,Prairie,W3,39.4015842,-99.286508,W3,
+West,Prairie,W4,38.6962609,-97.612919,W4,
+Central,Reciprocal_Transplant,KU_Field_station,39.053455,-95.191845,,"Lawrence, KS"
+East,Reciprocal_Transplant,ISU_Hort_Center,40.530768,-89.00663,,"Normal, IL"
+West,Reciprocal_Transplant,TLI_Marty_Bender,38.790314,-97.564322,,"Salina, KS"
